@@ -37,3 +37,8 @@ This project focuses on conducting exploratory data analysis to understand the s
 - Use findings to inform feature engineering for supervised models  
 - Apply scaling, encoding, and data transformation as needed  
 - Optionally incorporate advanced techniques (e.g., PCA, clustering) for further exploration
+- ## Author
+
+Heather Marie Culligan  
+[LinkedIn](https://linkedin.com/in/hmc2025)  
+[GitHub](https://github.com/hmc9898)
